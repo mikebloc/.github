@@ -5,10 +5,10 @@
 - 💬 Ask me about world.createExplosion(Location)
 
 ## Links
-- [KO-FI](https://ko-fi.com/cutzuu)
-- [Modrinth](https://modrinth.com/user/cutzuu)
-- [Youtube](https://youtube.com/@cutzuu)
+- [KO-FI](https://ko-fi.com/mikebloc)
+- [Modrinth](https://modrinth.com/user/mikebloc)
+- [Youtube](https://youtube.com/@mikebloc)
 - [Discord](https://discord.gg/a5HKupyxSs)
-- [X](https://x.com/cutzuuYT)
-- [Bukkit](https://dev.bukkit.org/members/cutzuu/projects)
-- [Curseforge](https://www.curseforge.com/members/cutzuu/projects)
+- [X](https://x.com/mikeblocYT)
+- [Bukkit](https://dev.bukkit.org/members/mikebloc/projects)
+- [Curseforge](https://www.curseforge.com/members/mikebloc/projects)
