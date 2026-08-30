@@ -1,9 +1,4 @@
-## Hi there 👋
-
-- 🔭 Currently working on Minecraft
-- 🌱 Currently learning Java
-- 💬 Ask me about world.createExplosion(Location)
-
+Curiosity killed the cat..
 ## Links
 - [KO-FI](https://ko-fi.com/mikebloc)
 - [Modrinth](https://modrinth.com/user/mikebloc)
