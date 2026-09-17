@@ -9,7 +9,7 @@ All rights reserved. Mike Bloc
 - Privately/personally redistribute without accreditation
 
 ## Can't do:
-- Publicly redistribute without accreditation (must credit Mike Bloc, name the license, and link/reference the original)
+- Publicly redistribute without accreditation (must credit Mike Bloc, and in your page description, link/reference the original source code and license.)
 - Falsify, remove, or alter accreditation or the original copyright notice
 - Apply a different (more or less restrictive) license to the work or derivatives — this license must carry over in full
 - Directly financially benefit — no paywalls, subscriptions, payment-gated platforms, or bundling into paid products
