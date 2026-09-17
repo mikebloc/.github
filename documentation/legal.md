@@ -5,7 +5,7 @@ All rights reserved. Mike Bloc
 ## Can do:
 - Modify the work / create derivative works
 - Redistribute the work (including derivatives)
-- Indirectly financially benefit (video ads, voluntary donations/tips not gated behind payment)
+- Indirectly financially benefit (video ads, voluntary donations/tips, and works not gated behind payment)
 - Privately/personally redistribute without accreditation
 
 ## Can't do:
