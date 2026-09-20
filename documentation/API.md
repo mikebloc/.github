@@ -10,13 +10,13 @@
         <version>1.8.8-R0.1-SNAPSHOT</version>
         <scope>provided</scope>
 
-## 1.12 Paper
+## 1.12.2 Paper
         <groupId>com.destroystokyo.paper</groupId>
         <artifactId>paper-api</artifactId>
         <version>1.12.2-R0.1-SNAPSHOT</version>
         <scope>provided</scope>
         
-## 1.16 Paper
+## 1.16.5 Paper
         <groupId>com.destroystokyo.paper</groupId>
         <artifactId>paper-api</artifactId>
         <version>1.16.5-R0.1-SNAPSHOT</version>
